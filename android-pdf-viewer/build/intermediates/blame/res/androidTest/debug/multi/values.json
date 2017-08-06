@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "G:\\asProject\\HuaAnManagerAPP\\android-pdf-viewer\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 43,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\3f657809d46b911d7308904300b2f6eb6ae1f446\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    }
+]
